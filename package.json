@@ -1,0 +1,12 @@
+{
+  "name": "swc-jest-transform-opts-undefined",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.2.128",
+    "@swc/jest": "^0.2.16",
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  }
+}
